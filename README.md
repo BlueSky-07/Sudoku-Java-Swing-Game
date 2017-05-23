@@ -20,7 +20,9 @@ DFS to solve sudoku / 解数独
 ![new game](https://ooo.0o0.ooo/2017/05/23/592439e865c96.png)
 
 2. fill in blanks / 填空
+
 *yellow-and-black* means *right*
+
 *white-and-red* means *wrong*
 
 ![fill in blanks](https://ooo.0o0.ooo/2017/05/23/59243aa9c4d3f.png)
@@ -33,3 +35,12 @@ DFS to solve sudoku / 解数独
 
 ![win](https://ooo.0o0.ooo/2017/05/23/59243b4999296.png)
 
+### Run | 运行
+
+cmd / Bash / ... : java -jar Sudoku.jar
+
+IDEA / Eclipse / ... : Controller / Game.main();
+
+### Environment | 环境
+
+JDK 1.8.0_131, Windows 10 x64
